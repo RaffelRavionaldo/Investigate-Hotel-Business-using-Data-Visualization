@@ -23,7 +23,7 @@ here is the syntax for doing it :
 
 ![image](https://user-images.githubusercontent.com/94748637/212446568-11dc61c1-b9ef-4a6f-9ca9-2a2220ff856c.png)
 
-### Discard Unnecessary Data : : Remove data that have an unreasonable total customer![image](https://user-images.githubusercontent.com/94748637/212446585-5e74a4d4-1158-4d32-b637-89d743fbdc29.png)
+### Discard Unnecessary Data : : Remove data that have an unreasonable total customer
 
 ![image](https://user-images.githubusercontent.com/94748637/212446589-5b47ff8c-b5f6-4ee6-9742-56dc7e2ae846.png)
 
